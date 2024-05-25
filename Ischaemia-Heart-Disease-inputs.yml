@@ -1,0 +1,96 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/ischaemia-heart-disease-preinfarction---primary.py
+inputModule3:
+  class: File
+  path: python/ischaemia-heart-disease-insufficiency---primary.py
+inputModule4:
+  class: File
+  path: python/ischaemia-heart-disease-vessel---primary.py
+inputModule5:
+  class: File
+  path: python/ischaemia-heart-disease-dressler's---primary.py
+inputModule6:
+  class: File
+  path: python/ischaemia-heart-disease-decubitus---primary.py
+inputModule7:
+  class: File
+  path: python/subendocardial-ischaemia-heart-disease---primary.py
+inputModule8:
+  class: File
+  path: python/ischaemia-heart-disease-attack---primary.py
+inputModule9:
+  class: File
+  path: python/chronic-ischaemia-heart-disease---primary.py
+inputModule10:
+  class: File
+  path: python/ischaemia-heart-disease-anginosus---primary.py
+inputModule11:
+  class: File
+  path: python/ischaemia-heart-disease---primary.py
+inputModule12:
+  class: File
+  path: python/ischaemia-heart-disease-subacute---primary.py
+inputModule13:
+  class: File
+  path: python/ischaemia-heart-disease-angina---primary.py
+inputModule14:
+  class: File
+  path: python/ischaemia-heart-disease-posterior---primary.py
+inputModule15:
+  class: File
+  path: python/current-ischaemia-heart-disease---primary.py
+inputModule16:
+  class: File
+  path: python/ischaemia-heart-disease-thrombosis---primary.py
+inputModule17:
+  class: File
+  path: python/coronary-ischaemia-heart-disease---primary.py
+inputModule18:
+  class: File
+  path: python/heart---primary.py
+inputModule19:
+  class: File
+  path: python/ischaemia-heart-disease-muscle---primary.py
+inputModule20:
+  class: File
+  path: python/ischaemia-heart-disease-pectoris---primary.py
+inputModule21:
+  class: File
+  path: python/ischaemia-heart-disease-aborted---primary.py
+inputModule22:
+  class: File
+  path: python/transmural-ischaemia-heart-disease---primary.py
+inputModule23:
+  class: File
+  path: python/myocardal-ischaemia-heart-disease---primary.py
+inputModule24:
+  class: File
+  path: python/unstable-ischaemia-heart-disease---primary.py
+inputModule25:
+  class: File
+  path: python/ischaemia-heart-disease-rupture---primary.py
+inputModule26:
+  class: File
+  path: python/ischaemia-heart-disease-unspecified---primary.py
+inputModule27:
+  class: File
+  path: python/ischaemia-heart-disease-infarction---primary.py
+inputModule28:
+  class: File
+  path: python/ischaemia-heart-disease-artery---primary.py
+inputModule29:
+  class: File
+  path: python/atherosclerotic-ischaemia-heart-disease---primary.py
+inputModule30:
+  class: File
+  path: python/ischaemia-heart-disease-stenocardia---primary.py
+inputModule31:
+  class: File
+  path: python/silent-ischaemia-heart-disease---primary.py
+inputModule32:
+  class: File
+  path: python/output-cases.py
